@@ -138,10 +138,10 @@ Create a new variable called `logwage` that is the log of `wage`.
 
 ## Question 5
 
-Make a simple scatterplot of `logwage`against `tenure` on the job and then do the same for `tenure2`.
-What does the different between the two plots tell us?
+Make a simple scatterplot of `logwage`against `age`. What does the plot tell us? What do you think the correlation between the two variables is?
 
-Finally, calculate the correlation between `logwage`and `tenure` as well as the correlation between `logwage`and `tenure2`.
+Now, calculate the correlation between `age`and `logwage`.
+
 
 ## Answer 5
 
